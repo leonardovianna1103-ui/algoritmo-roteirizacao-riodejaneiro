@@ -1,0 +1,90 @@
+[
+  {
+    "client": "Paciente Exemplo",
+    "bairro": "Avenida Marechal Rondon - Rocha",
+    "cell_id": "89a8a061153ffff",
+    "lat": -22.902547499999997,
+    "lng": -43.2515341,
+    "start_time": "2026-10-09T06:00:00",
+    "end_time": "2026-10-09T06:20:00",
+    "vaccines": 2,
+    "vehicle_id": 1
+  },
+  {
+    "client": "Paciente Exemplo",
+    "bairro": "Rua Dias da Cruz",
+    "cell_id": "89a8a060263ffff",
+    "lat": -22.9040157,
+    "lng": -43.2788024,
+    "start_time": "2026-10-09T06:40:00",
+    "end_time": "2026-10-09T07:00:00",
+    "vaccines": 2,
+    "vehicle_id": 1
+  },
+  {
+    "client": "Paciente Exemplo",
+    "bairro": "Rua Dias da Cruz",
+    "cell_id": "89a8a0603cbffff",
+    "lat": -22.9048157,
+    "lng": -43.2940024,
+    "start_time": "2026-10-09T07:20:00",
+    "end_time": "2026-10-09T07:40:00",
+    "vaccines": 2,
+    "vehicle_id": 1
+  },
+  {
+    "client": "Paciente Exemplo",
+    "bairro": "Rua Dias da Cruz",
+    "cell_id": "89a8a061ca3ffff",
+    "lat": -22.890415700000002,
+    "lng": -43.291602399999995,
+    "start_time": "2026-10-09T08:00:00",
+    "end_time": "2026-10-09T08:20:00",
+    "vaccines": 2,
+    "vehicle_id": 1
+  },
+  {
+    "client": "Paciente Exemplo",
+    "bairro": "Rua Retiro dos Artistas - Pechincha",
+    "cell_id": "89a8a062853ffff",
+    "lat": -22.9319462,
+    "lng": -43.357960600000006,
+    "start_time": "2026-10-09T09:20:00",
+    "end_time": "2026-10-09T09:40:00",
+    "vaccines": 2,
+    "vehicle_id": 1
+  },
+  {
+    "client": "Julia Rafael",
+    "bairro": "Rua Vinte e Quatro de Maio - Méier",
+    "cell_id": "89a8a06027bffff",
+    "lat": -22.9045558,
+    "lng": -43.2760347,
+    "start_time": "2026-10-10T11:00:00",
+    "end_time": "2026-10-10T11:20:00",
+    "vaccines": 2,
+    "vehicle_id": 1
+  },
+  {
+    "client": "Leonardo Vianna",
+    "bairro": "Avenida Marechal Rondon - Rocha",
+    "cell_id": "89a8a061153ffff",
+    "lat": -22.902547499999997,
+    "lng": -43.2515341,
+    "start_time": "2026-10-10T11:40:00",
+    "end_time": "2026-10-10T12:10:00",
+    "vaccines": 4,
+    "vehicle_id": 1
+  },
+  {
+    "client": "Vó da Julia",
+    "bairro": "Mundo Novo",
+    "cell_id": "89a8a07543bffff",
+    "lat": -23.0017246,
+    "lng": -43.395485900000004,
+    "start_time": "2026-10-10T14:00:00",
+    "end_time": "2026-10-10T14:15:00",
+    "vaccines": 1,
+    "vehicle_id": 1
+  }
+]
